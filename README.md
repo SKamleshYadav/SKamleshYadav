@@ -55,61 +55,7 @@ I enjoy building full-stack applications, exploring data-driven insights, and so
 *(B.Tech – Computer Science)*  
 
 
-
-# 💫 About Me  
-Hi, I'm **Kamlesh Yadav** 👋 — a passionate Computer Science student and aspiring Software Engineer.  
-I enjoy building full-stack applications, exploring data-driven insights, and solving real-world problems with clean, efficient, and scalable code.  
-
-🌱 Currently, I’m exploring advanced **web development** and **data analytics** while working on impactful projects.  
-💡 I believe in continuous learning and love contributing to open-source and collaborative projects.  
-🚀 My goal is to create solutions that make technology simple and accessible for everyone.  
-
----
-
-## 💻 Tech Stack
-- **Languages:** Python, Java, C++, C, SQL, TypeScript, JavaScript  
-- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, shadcn/ui  
-- **Backend:** Node.js, Express.js, MongoDB, SQL, Sanity CMS  
-- **Data Analytics & Visualization:** Data Cleaning, EDA, Descriptive Statistics, Power BI  
-- **CS Fundamentals:** Data Structures & Algorithms, OOPS, Operating System, Computer Networks, DBMS  
-- **Other Tools:** Git, GitHub, Vercel, OpenCV  
-
----
-
-## 🛠️ Experience
-**Web Development Intern – Octanet Services Pvt Ltd.** *(May 2025 – July 2025)*  
-- Built and deployed **8+ responsive web pages** improving speed & user experience.  
-- Designed a library of **15+ modular React UI components**, reducing dev time and ensuring consistency.  
-- Optimized performance for **20% faster load times** via refactoring & compression.  
-- Collaborated with backend team to integrate **10+ features** handling 1,000+ API requests daily.  
-
----
-
-## 🚀 Projects
-
-### 📂 [YC Directory](https://github.com/kamlesh0908/YC-Directory)  
-🔹 *React.js | Node.js | MongoDB | Next.js | TypeScript | Tailwind CSS | Sanity CMS*  
-- Built a platform to explore/search **4,000+ Y Combinator startups** with 8+ filter categories.  
-- Integrated **Sanity CMS** for real-time updates, handling **100+ content changes daily**.  
-- Designed **20+ reusable UI components** ensuring consistent user experience.  
-
-### 🅿️ [Smart Parking](https://github.com/kamlesh0908/Smart-Parking)  
-🔹 *React.js | Node.js | MongoDB | HTML | CSS | JavaScript*  
-- Created a **real-time parking management system** for 200+ slots with booking functionality.  
-- Supported **150+ concurrent users** and securely handled **5,000+ booking records**.  
-- Optimized DB queries by **45%**, enabling **sub-2s response times** and preventing double bookings.  
-
----
-
-## 🏆 Certifications
-- **Infosys Certified in Data Structures** *(Aug 2023)*  
-- **Infosys Certified in Video Analytics (OpenCV + Python)** *(Aug 2024)*  
-
----
-
-## 🎓 Education
-**Jaypee University of Engineering and Technology** – Guna, Madhya Pradesh  
-*(B.Tech – Computer Science)*  
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/skamlesh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamleshyadav35818@gmail.com) 
