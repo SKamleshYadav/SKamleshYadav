@@ -11,11 +11,11 @@ I enjoy building full-stack applications, exploring data-driven insights, and so
 
 ## 💻 Tech Stack
 - **Languages:** Python, Java, C++, C, SQL, TypeScript, JavaScript  
-- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, shadcn/ui  
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB, SQL, Sanity CMS  
 - **Data Analytics & Visualization:** Data Cleaning, EDA, Descriptive Statistics, Power BI  
 - **CS Fundamentals:** Data Structures & Algorithms, OOPS, Operating System, Computer Networks, DBMS  
-- **Other Tools:** Git, GitHub, Vercel, OpenCV  
+- **Other Tools:** Git, GitHub, Vercel, OpenCV, Streamlit  
 
 ---
 
@@ -29,6 +29,21 @@ I enjoy building full-stack applications, exploring data-driven insights, and so
 ---
 
 ## 🚀 Projects
+
+### 🅿️ [https://github.com/SKamleshYadav/QuickAI-AI-Productivity-Platform-)  
+🔹 *Next.js, React, Tailwind CSS, Node.js, REST APIs, Vercel, Serverless Architecture*  
+- Engineered a full-stack AI SaaS platform with 5+ productivity tools for automated content generation, reducing manualcontent creation time by 60%.  
+- Architected a responsive, mobile-first UI using Next.js, React, and Tailwind CSS, achieving 40% faster page load times via server-side rendering (SSR) and code splitting. 
+- Integrated multiple AI APIs (OpenAI/Gemini) to enable real-time text generation, achieving sub-2s response latency for 95%+ of user requests.
+- Used Vercel to deploy serverless architecture with CI/CD pipelines, ensuring 99.9% uptime and zero-downtime deployments.
+
+ ### 🅿️ [https://github.com/SKamleshYadav/spotify-hybrid-recommender-system)  
+🔹 *Python, Streamlit, Scikit-learn, Pandas, NumPy, TF-IDF, Sparse Matrix Optimization*  
+- Designed and implemented a hybrid recommendation engine combining collaborative filtering and content-based filtering, achieving 92%+ recommendation accuracy on test datasets.
+- Preprocessed and engineered features from 50K+ songs and 9.7M+ user interaction data points using Pandas and NumPy,reducing data processing time by 35%.
+-Applied TF-IDF vectorization and sparse matrix optimization to handle high-dimensional NLP feature spaces, cutting memory usage by 40% compared to dense matrix alternatives.
+- Deployed an interactive Streamlit web application enabling real-time, personalized music recommendations with sub-second query response time.
+  
 
 ### 📂 [YC Directory](https://github.com/kamlesh0908/YC-Directory)  
 🔹 *React.js | Node.js | MongoDB | Next.js | TypeScript | Tailwind CSS | Sanity CMS*  
