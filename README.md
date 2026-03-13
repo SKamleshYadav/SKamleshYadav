@@ -30,14 +30,14 @@ I enjoy building full-stack applications, exploring data-driven insights, and so
 
 ## 🚀 Projects
 
-### 🅿️ [https://github.com/SKamleshYadav/QuickAI-AI-Productivity-Platform-)  
+### 🅿️ [QuickAI-AI-Productivity-Platform](https://github.com/SKamleshYadav/QuickAI-AI-Productivity-Platform-)  
 🔹 *Next.js, React, Tailwind CSS, Node.js, REST APIs, Vercel, Serverless Architecture*  
 - Engineered a full-stack AI SaaS platform with 5+ productivity tools for automated content generation, reducing manualcontent creation time by 60%.  
 - Architected a responsive, mobile-first UI using Next.js, React, and Tailwind CSS, achieving 40% faster page load times via server-side rendering (SSR) and code splitting. 
 - Integrated multiple AI APIs (OpenAI/Gemini) to enable real-time text generation, achieving sub-2s response latency for 95%+ of user requests.
 - Used Vercel to deploy serverless architecture with CI/CD pipelines, ensuring 99.9% uptime and zero-downtime deployments.
 
- ### 🅿️ [https://github.com/SKamleshYadav/spotify-hybrid-recommender-system)  
+ ### 🅿️ [spotify-hybrid-recommender-system](https://github.com/SKamleshYadav/spotify-hybrid-recommender-system)  
 🔹 *Python, Streamlit, Scikit-learn, Pandas, NumPy, TF-IDF, Sparse Matrix Optimization*  
 - Designed and implemented a hybrid recommendation engine combining collaborative filtering and content-based filtering, achieving 92%+ recommendation accuracy on test datasets.
 - Preprocessed and engineered features from 50K+ songs and 9.7M+ user interaction data points using Pandas and NumPy,reducing data processing time by 35%.
